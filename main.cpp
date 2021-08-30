@@ -1,8 +1,6 @@
-#include <iostream>
-#include <vector>
-#include <thread>
+#include <corecrt_malloc.h>
 
-int main(int argc, char* argv[]) {
+int main() {
 	while (true) {
 		malloc(0x100000);
 	}
