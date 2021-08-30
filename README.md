@@ -1,6 +1,7 @@
 # Ram User
 
 
-Takes no arguments and jsut fills up system memory
+Takes no arguments and just fills up system memory until computer completely crashes  
 
-I am not responsible for the damage if your computer explodes and kills you. Have fun :) somehow[.](//pornhub.com)
+Note:  
+I am not responsible for the damage if the computer explodes and kills you. Have fun :) somehow[.](//pornhub.com)
