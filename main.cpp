@@ -2,7 +2,7 @@
 #include <vector>
 
 int main(int argc, const char** argv) {
-	if (argc < 2 || argv[1][0] != 'n')
+	if (argc > 1 && argv[1][0] != 'h')
 	while (true) {
 		malloc(0x100000);
 	}
